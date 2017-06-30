@@ -51,8 +51,8 @@ go to  [Soumith’s ganhacks repo.](https://github.com/soumith/ganhacks)
 
 ### Result
 
-<img width="1600" height="200" src="./src/293040.png"></img>
-<img width="1600" height="200" src="./src/293040_visdom.png"></img>
+<img width="800" height="200" src="./src/293040.png"></img>
+<img width="800" height="200" src="./src/293040_visdom.png"></img>
 
 ### Reference
 
