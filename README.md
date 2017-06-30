@@ -50,9 +50,10 @@ If you want to know more trick ,
 go to  [Soumith’s ganhacks repo.](https://github.com/soumith/ganhacks)
 
 ### Result
+1000 epochs
 
 <img width="700" height="300" src="./src/293040.png"></img>
-<img width="700" height="300" src="./src/293040_visdom.png"></img>
+<img width="1000" height="300" src="./src/293040_visdom.png"></img>
 
 ### Reference
 
